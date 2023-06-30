@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/relaxerr/.dotnet/store/|arch|/|tfm|",
+      "/Users/relaxerr/.nuget/packages"
+    ]
+  }
+}
